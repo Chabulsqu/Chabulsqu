@@ -1,6 +1,6 @@
 『👋』 Hello world, I am Mateo <br />
 『👀』 My goal is to become a Front end software developer <br />
-『🌱』 I’m currently learning Advanced CSS (Flexbox, Grid, Transitions) and Javascript <br />
+『🌱』 I’m currently learning to use the Bootstrap Framework and Advanced Javascript (classes, modules, error handling) <br />
 『📫』 You can contact me on Twitter (@mateo_fain) <br />
 『💬』 If you have suggestions or want to talk with me feel free to do so! <br />
 『💾』 I have fluency in HTML and CSS as well as in vanilla Javascript <br /> <br />
