@@ -1,5 +1,5 @@
 # 💫 About Me:
-『👋』 Hello world, I am Mateo<br>『👀』 My goal is to become a Front end software developer<br>『🌱』 I’m currently learning to use restful APIs on Javascript and the React framework<br>『📫』 You can contact me on Twitter if you want to talk with me (@mateo_fain)<br>『💬』 I have fluency in HTML, CSS and advanced Javascript (classes, iterators, error handling)<br>『💾』 I also write stories about coding in Medium (https://medium.com/@mateofainalonso)
+『👋』 Hello world, I am Mateo<br>『👀』 My goal is to become a Front end software developer<br>『🌱』 I’m currently learning to use restful APIs on Javascript and the React framework<br>『💬』 I have fluency in HTML, CSS and advanced Javascript (classes, iterators, error handling)
 
 
 ## 🌐 Socials:
