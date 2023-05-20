@@ -1,5 +1,5 @@
 # 💫 About Me:
-『👋』 Hello world, I am Mateo<br>『👀』 My goal is to improve as a Front-end Developer<br>『🌱』 I'm currently learning to use the Redux library and its related tools<br>『💬』 I have fluency in HTMl, CSS and JavaScript, I can use frameworks such as React, Bootstrap and Preprocessors like Sass.
+『👋』 Hello world, I am Mateo<br>『👀』 My goal is to improve as a Front-end Developer<br>『🌱』 I'm currently learning to use the Redux library and its related tools<br>『💬』 I have fluency in HTML, CSS and JavaScript, I can use frameworks such as React, Bootstrap and Preprocessors like Sass.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-fain-6b0006243/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mateofainalonso) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18302345) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mateo_fain) 
